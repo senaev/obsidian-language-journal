@@ -1,0 +1,9 @@
+{
+  "jsFiles": "",
+  "jsFolder": "_customjs",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [
+    "Translate"
+  ],
+  "rerunStartupScriptsOnFileChange": false
+}
