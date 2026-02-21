@@ -1,7 +1,7 @@
 {
   "apiKey": "",
   "providerUrl": "https://openrouter.ai/api/v1",
-  "model": "anthropic/claude-sonnet-4",
+  "model": "google/gemini-3-flash-preview",
   "promptLibraryDirectory": "_prompts",
   "project": "",
   "customPromptCommandLabel": "Custom prompt"
